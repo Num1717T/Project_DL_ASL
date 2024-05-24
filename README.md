@@ -9,5 +9,5 @@
 Video: https://youtu.be/Koe4K7CD-kA
 Dataset: https://drive.google.com/drive/folders/1RB80X4dLXodIAaY3xOP-bZpolDqbTJUC?usp=sharing
 
-# Soure Dataset:  
+# Referance Dataset:  
   https://www.kaggle.com/datasets/grassknoted/asl-alphabet
