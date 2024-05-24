@@ -6,6 +6,7 @@
 # 6452300504  ณัฐธิดา ฤทธานนท์
 # 6452300865  นาวี อักษรวิจิตรกุล
 # 6452300881  สุธินี แสงตะวัน
+#Codeฉบับเต็มที่สุด: https://colab.research.google.com/drive/1CcleOwfQFFqvh1sFEKb66RTJ2AS4ubYC?usp=sharing
 Video: https://youtu.be/Koe4K7CD-kA
 Dataset: https://drive.google.com/drive/folders/1RB80X4dLXodIAaY3xOP-bZpolDqbTJUC?usp=sharing
 
